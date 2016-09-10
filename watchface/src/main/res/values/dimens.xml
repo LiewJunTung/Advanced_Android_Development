@@ -3,7 +3,7 @@
     <dimen name="digital_text_size">45dp</dimen>
     <dimen name="digital_text_size_round">45dp</dimen>
     <dimen name="digital_x_offset">18dp</dimen>
-    <dimen name="digital_x_offset_round">18dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
     <dimen name="digital_y_offset">90dp</dimen>
     <dimen name="digital_y_offset_round">100dp</dimen>
 
@@ -15,13 +15,13 @@
     <dimen name="temp_y_offset_high">170dp</dimen>
     <dimen name="temp_y_offset_low">170dp</dimen>
 
-    <dimen name="date_x_offset_round">55dp</dimen>
+    <dimen name="date_x_offset_round">40dp</dimen>
     <dimen name="date_x_offset">30dp</dimen>
     <dimen name="date_y_offset_round">50dp</dimen>
     <dimen name="date_y_offset">40dp</dimen>
 
     <dimen name="desc_x_offset">18dp</dimen>
-    <dimen name="desc_x_offset_round">85dp</dimen>
+    <dimen name="desc_x_offset_round">45dp</dimen>
     <dimen name="desc_y_offset">120dp</dimen>
     <dimen name="desc_y_offset_round">125dp</dimen>
 
