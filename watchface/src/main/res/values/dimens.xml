@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size">45dp</dimen>
     <dimen name="digital_text_size_round">45dp</dimen>
-    <dimen name="digital_x_offset">15dp</dimen>
-    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_x_offset">18dp</dimen>
+    <dimen name="digital_x_offset_round">18dp</dimen>
     <dimen name="digital_y_offset">90dp</dimen>
+    <dimen name="digital_y_offset_round">100dp</dimen>
+
+    <dimen name="temp_x_offset_high">90dp</dimen>
+    <dimen name="temp_x_offset_round_high">60dp</dimen>
+    <dimen name="temp_x_offset_low">140dp</dimen>
+    <dimen name="temp_x_offset_round_low">120dp</dimen>
+
+    <dimen name="temp_y_offset_high">170dp</dimen>
+    <dimen name="temp_y_offset_low">170dp</dimen>
+
+    <dimen name="date_x_offset_round">55dp</dimen>
+    <dimen name="date_x_offset">30dp</dimen>
+    <dimen name="date_y_offset_round">50dp</dimen>
+    <dimen name="date_y_offset">40dp</dimen>
+
+    <dimen name="desc_x_offset">18dp</dimen>
+    <dimen name="desc_x_offset_round">85dp</dimen>
+    <dimen name="desc_y_offset">120dp</dimen>
+    <dimen name="desc_y_offset_round">125dp</dimen>
+
+    <dimen name="temp_high_text_size">35dp</dimen>
+    <dimen name="temp_high_text_size_round">35dp</dimen>
+    <dimen name="temp_low_text_size">25dp</dimen>
+    <dimen name="temp_low_text_size_round">25dp</dimen>
+    <dimen name="date_text_size">17dp</dimen>
+    <dimen name="date_text_size_round">17dp</dimen>
+
+    <dimen name="status_text_size">17dp</dimen>
+    <dimen name="status_text_size_round">17dp</dimen>
+
 </resources>

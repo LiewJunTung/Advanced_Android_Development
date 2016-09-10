@@ -553,7 +553,7 @@ public class Utility {
         } else if (weatherId == 761 || weatherId == 781) {
             return "http://upload.wikimedia.org/wikipedia/commons/d/dc/Raised_dust_ahead_of_a_severe_thunderstorm_1.jpg";
         } else if (weatherId == 800) {
-            return "http://upload.wikimedia.org/wikipedia/commons/7/7e/A_few_trees_and_the_sun_(6009964513).jpg";
+            return "https://s-media-cache-ak0.pinimg.com/736x/6d/f2/8f/6df28f3f5f6c0ed3fc03e57e3a129594.jpg";
         } else if (weatherId == 801) {
             return "http://upload.wikimedia.org/wikipedia/commons/e/e7/Cloudy_Blue_Sky_(5031259890).jpg";
         } else if (weatherId >= 802 && weatherId <= 804) {
